@@ -4,7 +4,7 @@
 ###Swipe carousel 
 
 
-‘‘‘javascript
+‘‘‘jsx
 
 import React, { useEffect, useState } from "react";
 import { motion, useMotionValue } from "framer-motion";
