@@ -3,7 +3,9 @@
 
 ###Swipe carousel 
 
-'''js
+<pre>
+‘‘‘javascript
+
 import React, { useEffect, useState } from "react";
 import { motion, useMotionValue } from "framer-motion";
 
@@ -138,4 +140,5 @@ const GradientEdges = () => {
   );
 };
 
-'''
+‘‘‘
+<pre/>
