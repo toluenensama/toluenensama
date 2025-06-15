@@ -3,7 +3,7 @@
 
 ###Swipe carousel 
 
-<pre>
+
 ‘‘‘javascript
 
 import React, { useEffect, useState } from "react";
@@ -141,4 +141,3 @@ const GradientEdges = () => {
 };
 
 ‘‘‘
-<pre/>
